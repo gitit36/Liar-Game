@@ -15,6 +15,7 @@ Simple liar game you can play with your friends!
 3. After everyone is done explaining, vote to find the liar.
    - You can take turns explaining and voting multiple times for fun.
 
-< Winning condition >
+
+### Winning condition
 * Non-liars: Non-liars win if they catch the liar and he/she can't guess the right word
 * Liar: Wins if non-liars never catch him + Wins even if he/she guesses the given word when voted as the liar
