@@ -19,3 +19,8 @@ Simple liar game you can play with your friends!
 ### Winning condition
 * Non-liars: Non-liars win if they catch the liar and he/she can't guess the right word
 * Liar: Wins if non-liars never catch him + Wins even if he/she guesses the given word when voted as the liar
+
+# How To Run
+```
+python game.py
+```
