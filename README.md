@@ -24,3 +24,4 @@ Simple liar game you can play with your friends!
 ```
 python game.py
 ```
+* Update the number of players `n` in the code's for loop: `for i in range(n)`
