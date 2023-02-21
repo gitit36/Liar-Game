@@ -3,9 +3,9 @@ Simple liar game you can play with your friends!
 
 # Rules
 
-1. Take turns one by one and press `Enter` to check the suggested word.
+1. Take turn one by one and press `Enter` to check the suggested word.
    - The liar does not know what the keyword is.
-   - `Ex: Liar will see the word "Liar" and everyone else will see the word "wallet".`
+   - `Ex: Liar reads the word "Liar" and everyone else reads "wallet".`
 
 2. After everyone has finished checking the suggested word, each person takes turns explaining the suggested word.
    - Non-liars should be careful not to reveal the suggested word while explaining it.
